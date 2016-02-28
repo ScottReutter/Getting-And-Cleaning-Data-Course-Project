@@ -1,12 +1,4 @@
-This project cleans data from UCI, the "Human Activity Recognition Using Smartphones Data Set", for later analysis. The following actions have been performed on the data:
-
-1. The training and test sets have been merged into one dataset
-2. The figures for the mean and standard deviation have been extracted for each measurement
-3. Descriptive activity names have been given to the activities in the dataset
-4. The dataset has been labeled with descriptive variable names
-5. A secondary data set has been created from the original dataset, comprised of the average of each variable for each activity and each subject
-
-The variables used in this dataset are as follows:
+As discussed in the readme file, this project cleans data from UCI, the "Human Activity Recognition Using Smartphones Data Set", for later analysis. The variables used in this dataset are as follows:
 
 *The UCI data has been placed into the datasets "x_train", "y_train", "subject_train", "x_test", "y_test", and "subject_test"*  
 *These datasets have been merged into the datasets "x_data", "y_data", and "subject_data"*  
